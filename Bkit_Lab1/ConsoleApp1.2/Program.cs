@@ -32,14 +32,14 @@ namespace ConsoleApp1
                 b = ReadDouble("B: ");
                 c = ReadDouble("C: ");
             }
-            if (a == 0 && b != 0)
+            if (a == 0)
             {
-                double root = (-1 * c) / b;
-                Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("Корни " + Math.Sqrt(root) + " и -" + Math.Sqrt(root));
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Корней нет");
             }
-            else if (a != 0)
+            else if ((a != 0) && (b != 0))
             {
+
                 double discrim = Math.Pow(b, 2) - 4 * a * c;
                 Console.WriteLine("Дискриминант: " + discrim);
                 if (discrim > 0)
@@ -65,12 +65,34 @@ namespace ConsoleApp1
                 }
                 Console.ResetColor();
             }
-            else
+
+            else if ((a != 0) && (b == 0))
             {
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("Оба коэффициента нулевые");
+                double discrim = Math.Pow(b, 2) - 4 * a * c;
+                Console.WriteLine("Дискриминант: " + discrim);
+                if (discrim > 0)
+                {
+                    double root_1 = (-1 * b + Math.Sqrt(discrim)) / (2 * a);
+                    double root_2 = (-1 * b - Math.Sqrt(discrim)) / (2 * a);
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.WriteLine("Корень 1: " + Math.Sqrt(root_1));
+                    Console.WriteLine("Корень 2: " + -1 * Math.Sqrt(root_1));
+                }
+                else if (discrim == 0)
+                {
+                    double root = (b + Math.Sqrt(discrim)) / (2 * a);
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.WriteLine("Корни " + Math.Sqrt(root) + " и " + -1 * Math.Sqrt(root));
+                }
+                else
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("Корней нет");
+                }
+                Console.ResetColor();
             }
             Console.ReadLine();
+
         }
         static double ReadDouble(string consoleMessage)
         {

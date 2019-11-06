@@ -1,6 +1,0 @@
-C:\Users\Ollegik\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\ConsoleApp3.exe.config
-C:\Users\Ollegik\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\ConsoleApp3.exe
-C:\Users\Ollegik\source\repos\ConsoleApp3\ConsoleApp3\bin\Release\ConsoleApp3.pdb
-C:\Users\Ollegik\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\ConsoleApp3.csprojAssemblyReference.cache
-C:\Users\Ollegik\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\ConsoleApp3.exe
-C:\Users\Ollegik\source\repos\ConsoleApp3\ConsoleApp3\obj\Release\ConsoleApp3.pdb
