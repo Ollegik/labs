@@ -1,0 +1,6 @@
+C:\Users\Ollegik\source\repos\NEW1\NEW1\bin\Release\NEW1.exe.config
+C:\Users\Ollegik\source\repos\NEW1\NEW1\bin\Release\NEW1.exe
+C:\Users\Ollegik\source\repos\NEW1\NEW1\bin\Release\NEW1.pdb
+C:\Users\Ollegik\source\repos\NEW1\NEW1\obj\Release\NEW1.csprojAssemblyReference.cache
+C:\Users\Ollegik\source\repos\NEW1\NEW1\obj\Release\NEW1.exe
+C:\Users\Ollegik\source\repos\NEW1\NEW1\obj\Release\NEW1.pdb
