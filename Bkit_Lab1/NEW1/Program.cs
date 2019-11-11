@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lab_1_BKID_Petrenko_IU5_35B
+namespace Lab_1
 {
     class Program
     {
