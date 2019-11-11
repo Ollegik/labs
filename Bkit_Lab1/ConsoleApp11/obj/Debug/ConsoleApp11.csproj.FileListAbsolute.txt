@@ -1,0 +1,6 @@
+C:\Users\Ollegik\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+C:\Users\Ollegik\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+C:\Users\Ollegik\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+C:\Users\Ollegik\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csprojAssemblyReference.cache
+C:\Users\Ollegik\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+C:\Users\Ollegik\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
