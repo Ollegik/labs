@@ -78,12 +78,13 @@ namespace Lab_1
                         Console.WriteLine("Корень 1: " + Math.Sqrt(root_2));
                         Console.WriteLine("Корень 2: " + -1 * Math.Sqrt(root_2));
                     }
-                    else {
+                    else
+                    {
                         Console.ForegroundColor = ConsoleColor.Green;
                         Console.WriteLine("Корень 1: " + Math.Sqrt(root_1));
                         Console.WriteLine("Корень 2: " + -1 * Math.Sqrt(root_1));
                     }
-                    
+
                 }
                 else if (discrim == 0)
                 {
@@ -93,11 +94,12 @@ namespace Lab_1
                         Console.ForegroundColor = ConsoleColor.Green;
                         Console.WriteLine("Корни " + Math.Sqrt(root) + " и " + -1 * Math.Sqrt(root));
                     }
-                    else {
+                    else
+                    {
                         double root = (b + Math.Sqrt(discrim)) / (2 * a);
                         Console.ForegroundColor = ConsoleColor.Green;
                         Console.WriteLine("Корень 0", Math.Sqrt(root));
-                        }
+                    }
 
                 }
                 else

@@ -1,0 +1,6 @@
+C:\Users\Ollegik\source\repos\App1\App1\bin\Debug\App1.exe.config
+C:\Users\Ollegik\source\repos\App1\App1\bin\Debug\App1.exe
+C:\Users\Ollegik\source\repos\App1\App1\bin\Debug\App1.pdb
+C:\Users\Ollegik\source\repos\App1\App1\obj\Debug\App1.csprojAssemblyReference.cache
+C:\Users\Ollegik\source\repos\App1\App1\obj\Debug\App1.exe
+C:\Users\Ollegik\source\repos\App1\App1\obj\Debug\App1.pdb
