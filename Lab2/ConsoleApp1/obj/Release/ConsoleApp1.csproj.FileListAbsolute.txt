@@ -1,0 +1,6 @@
+C:\Users\Ollegik\source\repos\Laba22\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\Ollegik\source\repos\Laba22\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\Ollegik\source\repos\Laba22\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\Ollegik\source\repos\Laba22\ConsoleApp1\obj\Release\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Ollegik\source\repos\Laba22\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\Ollegik\source\repos\Laba22\ConsoleApp1\obj\Release\ConsoleApp1.pdb
