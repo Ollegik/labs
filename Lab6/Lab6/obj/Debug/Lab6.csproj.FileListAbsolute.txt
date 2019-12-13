@@ -1,0 +1,6 @@
+C:\Users\Ollegik\source\repos\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\Ollegik\source\repos\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\Ollegik\source\repos\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\Ollegik\source\repos\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+C:\Users\Ollegik\source\repos\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\Ollegik\source\repos\Lab6\Lab6\obj\Debug\Lab6.pdb
