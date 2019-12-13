@@ -1,0 +1,13 @@
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab4\Lab4\obj\Debug\MainWindow.g.cs
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab4\Lab4\obj\Debug\App.g.cs
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab4\Lab4\obj\Debug\Lab4_MarkupCompile.cache
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab4\Lab4\obj\Debug\Lab4_MarkupCompile.lref
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab4\Lab4\obj\Debug\MainWindow.baml
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab4\Lab4\obj\Debug\Lab4.g.resources
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab4\Lab4\obj\Debug\Lab4.pdb
