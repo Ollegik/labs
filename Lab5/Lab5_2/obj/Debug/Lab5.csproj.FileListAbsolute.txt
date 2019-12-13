@@ -1,0 +1,17 @@
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\App.g.cs
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\Lab5_2_MarkupCompile.cache
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\Lab5_2_MarkupCompile.lref
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\Lab5_2.exe
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\Lab5_2.pdb
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\Lab5_2\bin\Debug\Lab5_2.exe.config
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\Lab5_2\bin\Debug\Lab5_2.exe
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\Lab5_2\bin\Debug\Lab5_2.pdb
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\Lab5_2\bin\Debug\ClassLibraryLab5.dll
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\Lab5_2\bin\Debug\ClassLibraryLab5.pdb
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\Lab5_2.g.resources
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\Lab5_2.Properties.Resources.resources
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\Lab5.csproj.CopyComplete
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\MainWindow.g.cs
+C:\Users\Ollegik\Documents\GitHub\BCIT_labs\Lab5\Lab5_2\Lab5_2\obj\Debug\MainWindow.baml
