@@ -1,5 +1,0 @@
-C:\Users\Ollegik\source\repos\Laba22\Laba22\bin\Release\Laba22.exe.config
-C:\Users\Ollegik\source\repos\Laba22\Laba22\bin\Release\Laba22.exe
-C:\Users\Ollegik\source\repos\Laba22\Laba22\bin\Release\Laba22.pdb
-C:\Users\Ollegik\source\repos\Laba22\Laba22\obj\Release\Laba22.exe
-C:\Users\Ollegik\source\repos\Laba22\Laba22\obj\Release\Laba22.pdb
