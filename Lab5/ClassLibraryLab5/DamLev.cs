@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LLab5
+namespace CLLab5
 {
     public static class DamLev
     {

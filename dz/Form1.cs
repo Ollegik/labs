@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 using System.Diagnostics;
-using LLab5;
+using CLLab5;
 
 namespace Homework
 {
