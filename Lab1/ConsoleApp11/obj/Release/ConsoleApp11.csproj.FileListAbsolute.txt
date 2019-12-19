@@ -1,5 +1,0 @@
-C:\Users\Ollegik\source\repos\ConsoleApp11\ConsoleApp11\bin\Release\ConsoleApp11.exe.config
-C:\Users\Ollegik\source\repos\ConsoleApp11\ConsoleApp11\bin\Release\ConsoleApp11.exe
-C:\Users\Ollegik\source\repos\ConsoleApp11\ConsoleApp11\bin\Release\ConsoleApp11.pdb
-C:\Users\Ollegik\source\repos\ConsoleApp11\ConsoleApp11\obj\Release\ConsoleApp11.exe
-C:\Users\Ollegik\source\repos\ConsoleApp11\ConsoleApp11\obj\Release\ConsoleApp11.pdb

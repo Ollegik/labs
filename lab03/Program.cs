@@ -20,14 +20,14 @@ namespace lab03
 
             ArrayList first_list = new ArrayList() { a, b, c, d, e, f };
 
-            Console.WriteLine("не отсортирован");
+            Console.WriteLine("Not sorted ArrayList");
 
             foreach (GeometricFigure el in first_list)
             {
                 Console.WriteLine(Convert.ToString(el.Square()));
             }
 
-            Console.WriteLine("\nсортировочка");
+            Console.WriteLine("\nSorted List");
 
             List<GeometricFigure> geometric_figures = new List<GeometricFigure>();
             geometric_figures.Add(new Rectangle(77, 42));
@@ -56,7 +56,7 @@ namespace lab03
                 Console.WriteLine(Convert.ToString(geometric_figures[i].Square()));
             }
 
-            Console.WriteLine("\nпример матрицы");
+            Console.WriteLine("\nExample of matrix");
 
             Matrix<GeometricFigure> matrix_of_figures = new Matrix<GeometricFigure>(2, 2, 2, f);
             matrix_of_figures[0, 0, 1] = a;
@@ -66,7 +66,7 @@ namespace lab03
             matrix_of_figures[1, 1, 0] = e;
             Console.WriteLine(matrix_of_figures);
 
-            Console.WriteLine("\nпример симплстек");
+            Console.WriteLine("\nExample of SimpleStack");
 
             SimpleStack<GeometricFigure> stack_of_figures = new SimpleStack<GeometricFigure>();
             stack_of_figures.Push(a);

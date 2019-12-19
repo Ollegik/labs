@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {}
+    ".NETCoreApp,Version=v3.0": {
+      "lab02/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/lab02.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/lab02.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "lab02/1.0.0": {
+      "type": "project",
+      "path": "../lab02/lab02.csproj",
+      "msbuildProject": "../lab02/lab02.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": []
+    ".NETCoreApp,Version=v3.0": [
+      "lab02 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Ollegik\\.nuget\\packages\\": {}
@@ -32,7 +51,11 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Ollegik\\Documents\\GitHub\\labs1\\lab02\\lab02.csproj": {
+              "projectPath": "C:\\Users\\Ollegik\\Documents\\GitHub\\labs1\\lab02\\lab02.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

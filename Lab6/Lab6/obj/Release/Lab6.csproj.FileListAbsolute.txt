@@ -1,5 +1,0 @@
-C:\Users\Ollegik\source\repos\Lab6\Lab6\bin\Release\Lab6.exe.config
-C:\Users\Ollegik\source\repos\Lab6\Lab6\bin\Release\Lab6.exe
-C:\Users\Ollegik\source\repos\Lab6\Lab6\bin\Release\Lab6.pdb
-C:\Users\Ollegik\source\repos\Lab6\Lab6\obj\Release\Lab6.exe
-C:\Users\Ollegik\source\repos\Lab6\Lab6\obj\Release\Lab6.pdb
